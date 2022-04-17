@@ -18,7 +18,7 @@ ServerActors=BTPlusPlusPublicUTBT_beta3.BTPlusPlus
 GameType = `BTPlusPlusPublicUTBT_beta3.BunnyTrackGame`
 
 
-### BTPlusPlusTE.ini:
+### BTPlusPlusPublic.ini:
 ```
 [BTPlusPlusPublicUTBT_beta3.BTPlusPlus]
 bSuddenDeath=True
