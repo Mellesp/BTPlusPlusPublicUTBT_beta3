@@ -24,5 +24,5 @@ GameType = `BTPlusPlusPublicUTBT_beta3.BunnyTrackGame`
 bSuddenDeath=True
 bSaveRecords=True
 CountryFlagsPackage=CountryFlags3
-BoardLabel=BunnyTrack Server
+BoardLabel=UTBT Server
 ```
