@@ -1,7 +1,9 @@
 # BTPlusPlusPublicUTBT_beta3
 BT++ Public Edition UTBT beta 3
 
-Too busy to write changelog for this atm
+Changes since beta version2:
+- increased flag unhide time from 0.2 to 2 seconds
+- removed i4g scuffed jingle
 
 Placeholder version until we have finished the UTBT mod.
 
