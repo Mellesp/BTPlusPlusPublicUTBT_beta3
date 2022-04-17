@@ -1,7 +1,7 @@
 # BTPlusPlusPublicUTBT_beta3
 BT++ Public Edition UTBT beta 3
 
-Changes since beta version2:
+Changes since beta version 2:
 - increased flag unhide time from 0.2 to 2 seconds
 - removed i4g scuffed jingle
 
